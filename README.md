@@ -8,7 +8,7 @@ We used tools such as conditionals to select where in the array (which array met
 We used forEach and for loops to iterate over the formed arrays and a string-builder and print function to print HTML cards to the DOM.  
 Note: The splice exercise was done as a challenge assignment without instructors' help. See functions `addInMiddle` and `addPassenger`.  
 ### Screenshots  
-![Screenshot of a page that displays a title and five cards representing various passengers on the bus. Each card tells us the passenger's name, how much money they have, and whether they are struggling or not.]()  
+![Screenshot of a page that displays a title and five cards representing various passengers on the bus. Each card tells us the passenger's name, how much money they have, and whether they are struggling or not.](https://raw.githubusercontent.com/sarahjulesthorne/js-array-methods/master/images/2019-03-18%20(2).png "Screenshot of a page with title and five unstyled cards")  
 ### Getting Started  
 Clone the project down:  
 ```  
